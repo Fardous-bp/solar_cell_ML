@@ -1,12 +1,8 @@
-Yes. Since you’ve now added `requirements.txt`, the README should explicitly include it in the repository structure and use it as the recommended installation method.
-
-The relevant parts should be:
-
-# Bulk–Surface Recombination Coupling in Crystalline Silicon Solar Cells
+Bulk–Surface Recombination Coupling in Crystalline Silicon Solar Cells
 
 Code and computational data accompanying the study:
 
-**“Regime-Dependent Coupling of Bulk and Surface Recombination in Crystalline Silicon Solar Cells: A Physics-Based and Interpretable Machine-Learning Study”**
+“Regime-Dependent Coupling of Bulk and Surface Recombination in Crystalline Silicon Solar Cells: A Physics-Based and Interpretable Machine-Learning Study”
 
 This repository contains the numerical implementation, generated dataset, analysis results, and reproducibility information for a physics-based study of bulk and surface recombination losses in crystalline silicon (c-Si) solar cells.
 
@@ -339,5 +335,3 @@ The final bibliographic information should be updated here after publication.
 This repository is released under the **MIT License**.
 
 See `LICENSE` for details.
-
-This is the version I would use now. It documents **software dependencies and scientific reproducibility**, while containing nothing about manuscript generation, AI assistance, prompts, or writing workflow.
