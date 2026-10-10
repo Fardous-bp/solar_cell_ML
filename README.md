@@ -18,12 +18,12 @@ solar_cell_ML/
 ├── LICENSE
 ├── requirements.txt
 ├── results.json
-└── si_recombination_analysis.py
+└── si_recombination_analysis.ipynb
 ```
 
 ### Main files
 
-* **`si_recombination_analysis.py`**
+* **`si_recombination_analysis.ipynb`**
   Main analysis script. Generates the full-factorial dataset, calculates device metrics, performs analytical decomposition, trains and evaluates the machine-learning surrogate, and generates the reported numerical results and figures.
 
 * **`results.json`**
